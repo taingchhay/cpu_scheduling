@@ -1,5 +1,5 @@
 # cpu_scheduling
-How to run it in Ubuntu
+How to run ( Ubuntu )
 
 Step 1: Install Python (if not installed)
 First, check if Python is already installed. Open the terminal and type:
